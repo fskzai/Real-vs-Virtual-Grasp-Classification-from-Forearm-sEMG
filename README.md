@@ -117,7 +117,7 @@ If you use this code, please cite the accompanying article (citation details wil
 ```bibtex
 @article{ajaz_real_virtual_grasp_semg,
   title   = {Machine Learning-Based Identification of Real and Virtual Grasping Using Individual and Fused Multi-Muscle Forearm sEMG Signals},
-  author  = {Ajaz, Nishwa and Mohy Ud Din, Zia and Fatima, Noor and Leong, Wai Yie},
+  author  = {Nishwa Aijaz, Zia Mohy Ud Din, Fawad Salam Khan, Noor Fatima and Leong, Wai Yie},
   journal = {to appear},
   year    = {2026}
 }
@@ -125,8 +125,8 @@ If you use this code, please cite the accompanying article (citation details wil
 
 ## License
 
-Released under the MIT License (add a `LICENSE` file to the repository).
+Released under Dr. Fawad Salam Khan (AI Lab)
 
 ## Acknowledgements
 
-Department of Biomedical Engineering, Air University, Islamabad, and the Faculty of Engineering and Technology, INTI International University, Malaysia. Thanks to all participants.
+All Implemenations by Engr. Dr. Fawad Salam Khan, Chair And Associsite Professor, CSE Dept Air University, Islamabad 
